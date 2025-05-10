@@ -1,1 +1,5 @@
 Name:Srushti
+Class:TE
+Roll No:TIB34
+Sub:Wad Assignment
+college:I2IT ,Pune
